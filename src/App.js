@@ -34,7 +34,7 @@ modeHandler=() => {
     </Fragment>
   )}
       }
-//   <BrowserRouter>
+//   <BrowserRouter basename="my-app">
 //     <Fragment>
 //     <nav>
 //       <NavLink to="/users" >UserPage</NavLink>
